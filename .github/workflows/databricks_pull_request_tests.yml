@@ -3,7 +3,7 @@ name: Run pre-merge Databricks tests
 on:
   push:
        branches:
-                  main
+                  master
 
 env:
   # Replace this value with your workspace instance name.
